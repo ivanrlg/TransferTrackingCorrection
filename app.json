@@ -1,0 +1,33 @@
+{
+  "id": "f371a6f8-f01f-4796-bdfa-137e3ae3af14",
+  "name": "TransferTrackingCorrection",
+  "publisher": "ivansingleton.dev",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "https://ivansingleton.dev/",
+  "help": "https://ivansingleton.dev/",
+  "url": "https://ivansingleton.dev/",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "2.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.3",
+  "features": [
+    "NoImplicitWith"
+  ],
+    "contextSensitiveHelpUrl": "https://ivansingleton.dev/"
+}
