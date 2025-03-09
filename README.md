@@ -35,7 +35,7 @@ Simply add this codeunit to your Business Central environment and create an acti
 This project is available under the MIT License - see the LICENSE.md file for details.
 
 ## Learn More
-For a comprehensive explanation of how this solution works and the technical details behind it, please refer to my detailed blog post on [Fixing Serial Number Tracking in Business Central Transfer Orders]([[https://ivansingleton.dev/fixing-serial-number-tracking-business-central-transfer-order](https://ivansingleton.dev/how-to-instantly-fix-broken-serial-tracking-in-bc-transfer-orders/)s/](https://ivansingleton.dev/how-to-instantly-fix-broken-serial-tracking-in-bc-transfer-orders/)).
+For a comprehensive explanation of how this solution works and the technical details behind it, please refer to my detailed blog post on https://ivansingleton.dev/how-to-instantly-fix-broken-serial-tracking-in-bc-transfer-orders/
 
 ## Additional Notes
 While uncommon, serial tracking issues can be extremely frustrating when they occur. This solution demonstrates how to effectively rebuild reservation entries by understanding the critical relationships between Business Central's transfer document tables. The approach could potentially be extended to other scenarios where reservation entries need repair.
